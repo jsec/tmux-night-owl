@@ -1,4 +1,4 @@
-# tmux-gruvbox-light
+# tmux-night-owl
 
 A tmux color scheme based on the [night owl](https://github.com/haishanh/night-owl.vim) vim theme.
 
