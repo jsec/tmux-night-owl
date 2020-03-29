@@ -1,31 +1,26 @@
 # tmux-gruvbox-light
 
-A tmux color scheme based on the [gruvbox](https://github.com/morhetz/gruvbox) color palette and based on the [tmux-gruvbox](https://github.com/egel/tmux-gruvbox) dark theme.
+A tmux color scheme based on the [night owl](https://github.com/haishanh/night-owl.vim) vim theme.
 
 Currently this is only tested on systems with 24-bit color support. Making the theme degrade gracefully for 8-bit palettes is in the works.
 
 ## Screenshot
 
-![tmux gruvbox light](https://github.com/jsec/tmux-gruvbox-light/raw/master/screenshots/tmux-gruvbox.png)
+![night owl](https://github.com/jsec/tmux-night-owl/raw/master/screenshots/tmux-night-owl.png)
 
 ## Installation
 
 Install with TPM:
 
 ```bash
-set -g @plugin 'jsec/tmux-gruvbox-light'
+set -g @plugin 'jsec/tmux-night-owl'
 ```
 
 or add to your `tmux.conf` file:
 
 ```bash
-source-file "/path/to/repository/tmux-gruvbox-light.conf"
+source-file "/path/to/repository/tmux-night-owl.conf"
 ```
-
-## Roadmap
-
-- Clean up theme
-- Add support for 256 color palettes.
 
 ## License
 
